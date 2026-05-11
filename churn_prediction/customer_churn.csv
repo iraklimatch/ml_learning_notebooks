@@ -1,0 +1,6 @@
+CustomerID,Tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,Churn
+1001,5,70.0,350.0,Month-to-month,Electronic check,1
+1002,10,85.5,850.5,Two year,Mailed check,0
+1003,3,55.3,165.9,One year,Electronic check,1
+1004,8,90.0,720.0,Month-to-month,Credit card,0
+1005,2,65.2,130.4,One year,Electronic check,1
